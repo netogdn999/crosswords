@@ -1,0 +1,11 @@
+<svg width="60" height="30" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(0, 4) rotate(0)">
+    <polygon id="primary" points="12 4 9.22 9.27 3 10.11 7.5 14.21 6.44 20 12 17.27 17.56 20 16.5 14.21 21 10.11 14.78 9.27 12 4" style="fill: rgb(253, 204, 13); stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2;"></polygon>
+  </g>
+  <g transform="translate(15, -3.5) rotate(0) scale(1.2)">
+    <polygon id="primary" points="12 4 9.22 9.27 3 10.11 7.5 14.21 6.44 20 12 17.27 17.56 20 16.5 14.21 21 10.11 14.78 9.27 12 4" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round; stroke-width: 1.5;"></polygon>
+  </g>
+    <g transform="translate(35, 4) rotate(0)">
+    <polygon id="primary" points="12 4 9.22 9.27 3 10.11 7.5 14.21 6.44 20 12 17.27 17.56 20 16.5 14.21 21 10.11 14.78 9.27 12 4" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2;"></polygon>
+  </g>
+</svg>
